@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1200px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a::hover {
+  text-decoration: none;
+}
+
+.header {
+  color: red;
+  background-color: #3c9b9e;
+}
+
+.navbar {
+  background-color: #3c9b9e;
+}
